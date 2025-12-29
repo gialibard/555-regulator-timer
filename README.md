@@ -9,7 +9,7 @@ This project implements a voltage regulation and timing circuit using the **NE55
 - Revisit fundamental concepts of analog electronics and document the main design process.
 
 ## Status
-- In development
+- Finalized
 
 ## Tools
 - KiCad
